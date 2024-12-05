@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18b790eb-b3bb-4413-9328-096caeed49aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/sistemaestudos/interfaces/Avaliavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/sistemaestudos/model/Avaliacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/sistemaestudos/model/Disciplina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/sistemaestudos/model/ElementoAcademico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/sistemaestudos/model/RegistroEstudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/sistemaestudos/service/SistemaEstudos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="18b790eb-b3bb-4413-9328-096caeed49aa" name="Changes" comment=":sparkles: feat: Adicionado classe Registro">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/sistemaestudos/service/SistemaEstudos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/sistemaestudos/service/SistemaEstudos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +23,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JoNasgaBri"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JoNasgaBri/Sistema-Planejamento-Estudo.git",
+    "accountId": "28db77ab-fbfb-4679-b9d1-0c8e8f694e95"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "JoNasgaBri",
+    "repository": "Sistema-Planejamento-Estudo"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -42,6 +56,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "develop",
@@ -71,11 +86,42 @@
       <option name="presentableId" value="Default" />
       <updated>1732881291586</updated>
       <workItem from="1732881292709" duration="2797000" />
-      <workItem from="1733415995686" duration="2692000" />
+      <workItem from="1733415995686" duration="4889000" />
     </task>
+    <task id="LOCAL-00001" summary=":sparkles: feat: Adicionado toda a estrutura do projeto mais o codigo da interface e da classe ElementoAcademico">
+      <option name="closed" value="true" />
+      <created>1733420835657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733420835657</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":sparkles: feat: Adicionado classes Avaliacao e Disciplina">
+      <option name="closed" value="true" />
+      <created>1733423738990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733423738990</updated>
+    </task>
+    <task id="LOCAL-00003" summary=":sparkles: feat: Adicionado classe Registro">
+      <option name="closed" value="true" />
+      <created>1733423767376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733423767376</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":sparkles: feat: Adicionado toda a estrutura do projeto mais o codigo da interface e da classe ElementoAcademico" />
+    <MESSAGE value=":sparkles: feat: Adicionado classes Avaliacao e Disciplina" />
+    <MESSAGE value=":sparkles: feat: Adicionado classe Registro" />
+    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: feat: Adicionado classe Registro" />
   </component>
 </project>
